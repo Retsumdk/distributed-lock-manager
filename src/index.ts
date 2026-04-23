@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 /**
  * distributed-lock-manager - Redis-based distributed locks for critical sections
- * Built with Zo Computer by The BookMaster
+ * Built by Retsumdk
  */
 
 import { Command } from "commander";
